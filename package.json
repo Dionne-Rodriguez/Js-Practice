@@ -1,0 +1,26 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "humanReadableTime.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dionne-Rodriguez/Js-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dionne-Rodriguez/Js-Practice/issues"
+  },
+  "homepage": "https://github.com/Dionne-Rodriguez/Js-Practice#readme",
+  "dependencies": {
+    "chai": "^4.3.4"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "^9.1.3"
+  }
+}
